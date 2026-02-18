@@ -65,8 +65,9 @@ Docker support is on the roadmap to enable:
 ### Sample Dockerfile (to be added)
 
 ```Dockerfile
-FROM openjdk:17-jdk-slim
-COPY target/FinancialTransactionProcessor.jar app.jar
+FROM eclipse-temurin:21-jdk-alpine
+WORKDIR /app
+COPY target/FinancialTransactionProcessor-*.jar app.jar
 ENTRYPOINT ["java", "-jar", "app.jar"]
 ```
 
