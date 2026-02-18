@@ -1,6 +1,6 @@
-# 💸 PayTrack: SAAS based Financial Transaction Processor
+# 💸 TxnFlow
 
-An **enterprise-grade financial transaction processing system** built for **high-frequency trading**, **digital payments**, and **real-time settlements**. Designed with precision, modularity, and performance in mind — this backend powerhouse leverages **Spring Boot**, **event-driven design**, and **clean architecture** to orchestrate secure and scalable financial operations.
+**TxnFlow** is an enterprise-grade financial transaction processing API built for **high-frequency trading**, **digital payments**, and **real-time settlements**. Designed with precision, modularity, and performance in mind — this backend leverages **Spring Boot**, **event-driven design**, and **clean architecture** to orchestrate secure and scalable financial operations.
 
 ---
 
@@ -79,8 +79,8 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 
 ```bash
 # 1️⃣ Clone the repo
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/<your-username>/txnflow.git
+cd txnflow
 
 # 2️⃣ Configure database
 # Edit src/main/resources/application.properties and set your MySQL username/password.
@@ -132,8 +132,8 @@ Found this useful?
 
 ---
 
-## 🏆 Why This Project Stands Out
+## 🏆 Why TxnFlow Stands Out
 
-This isn’t just another backend — it’s a **financial-grade transaction engine** built with the rigor of production systems. Whether you're simulating high-frequency trades or orchestrating real-time payments, this platform is engineered to scale, secure, and succeed.
+This isn’t just another backend — it’s a **financial-grade transaction engine** built with the rigor of production systems. Whether you're simulating high-frequency trades or orchestrating real-time payments, TxnFlow is engineered to scale, secure, and succeed.
 
 ---

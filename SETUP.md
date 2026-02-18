@@ -1,4 +1,4 @@
-# PayTrack – Setup & Requirements
+# TxnFlow – Setup & Requirements
 
 ## What You Need to Install
 

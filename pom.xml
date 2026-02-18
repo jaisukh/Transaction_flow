@@ -11,8 +11,8 @@
 	<groupId>com</groupId>
 	<artifactId>FinancialTransactionProcessor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>FinancialTransactionProcessor</name>
-	<description>FinancialTransactionProcessor is an enterprise-grade financial transaction processing system designed for high-frequency trading, digital payments, and real-time settlement operations. Built with a monolithic architecture and event-driven design patterns.</description>
+	<name>TxnFlow</name>
+	<description>TxnFlow is an enterprise-grade financial transaction processing API for high-frequency trading, digital payments, and real-time settlements. Built with Spring Boot, event-driven design, and clean architecture.</description>
 	<url/>
 	<licenses>
 		<license/>
